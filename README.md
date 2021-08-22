@@ -1,4 +1,4 @@
-Cash Register
+Profit Loss React App
 ============
 
 ## Live link : https://profit-loss-react-app.netlify.app/
